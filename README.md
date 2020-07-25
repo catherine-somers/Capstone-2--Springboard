@@ -7,6 +7,9 @@ Contains all relevant files on Improving Amazon Alexa Classification project for
 The notebooks in this repository contain Data Wrangling, Data Visualization, Inferential Statistics, and Machine Learning methods
 
 ### Methods Used on this Dataset
+- Infential Statistics
+- Machine Learning Methods 
+- NLP Methods
 
 #### Documents 
 The documents in this repository include the Project Proposal, Milestone Report 1, Milestone Report 2, the Final Report, and Slide Deck
