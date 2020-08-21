@@ -2,7 +2,8 @@
 
 The dataset can be found [here.](https://www.kaggle.com/sid321axn/amazon-alexa-reviews)
 
-Contains all relevant files on Improving Amazon Alexa Classification project for Springboard Capstone Project 2
+Contains all relevant files on Amazon Alexa Review Classification for Springboard Capstone Project 2
+
 #### Code 
 The notebooks in this repository contain Data Wrangling, Data Visualization, Inferential Statistics, and Machine Learning methods
 
